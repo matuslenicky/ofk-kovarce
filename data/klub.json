@@ -1,0 +1,88 @@
+{
+  "_zdroj": "Ručne zapísané len zo zverejnených zdrojov (uvedené pri každej časti). Nič nedopĺňať odhadom – chýbajúce údaje dodá klub.",
+  "nazov": "OFK Kovarce",
+  "kratky": "Kovarce",
+  "pravnyNazov": "Obecný futbalový klub Kovarce",
+  "_pravnyNazov": "Sportnet",
+  "mesto": "Kovarce",
+  "zalozenie": 1927,
+  "_zalozenie": "web obce (Organizácie – Futbal, článok o novom znaku): založenie futbalu v obci sa datuje na rok 1927; rok aj v znaku klubu",
+  "farby": "biela a modrá",
+  "_farby": "web obce (článok o novom znaku): biela a modrá sú farbami klubu",
+  "erbAlt": "Znak OFK Kovarce: erb obce s krížom a korunou medzi dvoma futbalistami, vpravo hráč z roku 1927 v dobovom výstroji s čiapkou, vľavo dnešný hráč v modro-bielom drese",
+  "adresa": ["956 15 Kovarce"],
+  "_adresa": "Sportnet (obec a PSČ ihriska); sídlo klubu je podľa zmluvy o dotácii obce 2025 Kovarce č. 461 (obecný úrad), preto ho neuvádzame ako adresu ihriska",
+  "kontakt": { "email": "ofkkovarce@gmail.com" },
+  "_kontakt": "web obce (Organizácie – Futbal) a Sportnet",
+  "sportnetUrl": "https://sportnet.sme.sk/futbalnet/k/ofk-kovarce/",
+  "obecWeb": "https://obeckovarce.sk/",
+  "obecKlub": "https://obeckovarce.sk/obec/organizacie/futbal/",
+  "hymna": "https://www.youtube.com/watch?v=hUtZwEHF7XY",
+  "_hymna": "odkaz „Hymna OFK Kovarce“ na stránke klubu na webe obce",
+  "stadion": {
+    "_zdroj": "Sportnet (názov ihriska, poloha)",
+    "nazov": "Ihrisko OFK Kovarce",
+    "geo": [48.4992491, 18.1608853],
+    "fakty": []
+  },
+  "kronika": {
+    "_zdroj": "web obce Kovarce, Organizácie – Futbal: článok o novom znaku klubu (Jozef Kovačik, Daniel Kutňanský)",
+    "zoznam": [
+      { "rok": "1926", "text": "V budove Aponiovcov vzniká Ústav vojnových invalidov. Pri založení v ňom žije 137 invalidov, hlavne veteránov z prvej svetovej vojny." },
+      { "rok": "1927", "text": "V Kovarciach vzniká prvý futbalový klub, robotnícky." },
+      { "rok": "1928", "text": "Druhý klub zakladajú prívrženci agrárnej strany. Iniciatívu postupne preberá robotnícky klub, pomáhajú mu invalidi z ústavu Karol Lajer a Július Prevuzňák a Kovarčania Jozef Holák, Rudolf Stolár a Anton Stolár." },
+      { "rok": "1927 – 2017", "text": "K 90 rokom futbalu v obci dostáva klub vlastný znak: erb a korunu obce, bielu a modrú a dvoch futbalistov. Vpravo hráč z roku 1927 v dobovom výstroji s čiapkou, vľavo dnešný hráč v modro-bielom drese, každý s loptou svojej doby." }
+    ]
+  },
+  "rocniky": {
+    "_zdroj": "Sportnet – konečné tabuľky áčka (dospelí), stiahnuté 18. 11. 2026",
+    "zoznam": [
+      { "rok": "2013/14", "liga": "II. trieda ObFZ Topoľčany", "poz": 8, "z": 14, "skore": "47:49", "body": 36 },
+      { "rok": "2014/15", "liga": "II. trieda ObFZ Topoľčany", "poz": 4, "z": 14, "skore": "60:31", "body": 43 },
+      { "rok": "2015/16", "liga": "VII. liga ObFZ Topoľčany", "poz": 2, "z": 16, "skore": "69:29", "body": 59, "pozn": "o bod za Nitrianskou Stredou" },
+      { "rok": "2016/17", "liga": "VI. liga ObFZ Topoľčany", "poz": 6, "z": 14, "skore": "46:37", "body": 37 },
+      { "rok": "2017/18", "liga": "VI. liga ObFZ Topoľčany", "poz": 1, "z": 16, "skore": "97:26", "body": 77, "titul": true, "pozn": "25 výhier, 2 remízy, 3 prehry" },
+      { "rok": "2018/19", "liga": "V. liga Stred", "poz": 15, "z": 16, "skore": "33:101", "body": 19 },
+      { "rok": "2019/20", "liga": "IV. liga Juhovýchod", "poz": 16, "z": 16, "skore": "19:59", "body": 11, "pozn": "16 zápasov" },
+      { "rok": "2020/21", "liga": "IV. liga Juhovýchod", "poz": 14, "z": 16, "skore": "22:40", "body": 12, "pozn": "15 zápasov" },
+      { "rok": "2021/22", "liga": "IV. liga Juhovýchod", "poz": 11, "z": 16, "skore": "30:55", "body": 33 },
+      { "rok": "2022/23", "liga": "VII. liga ObFZ Topoľčany", "poz": 11, "z": 14, "skore": "31:77", "body": 22 },
+      { "rok": "2023/24", "liga": "VII. liga ObFZ Topoľčany", "poz": 11, "z": 14, "skore": "44:63", "body": 26 },
+      { "rok": "2024/25", "liga": "VII. liga ObFZ Topoľčany", "poz": 7, "z": 14, "skore": "53:56", "body": 35 },
+      { "rok": "2025/26", "liga": "VII. liga ObFZ Topoľčany", "poz": 1, "z": 10, "skore": "81:23", "body": 55, "titul": true, "pozn": "18 výhier, 1 remíza, 5 prehier" }
+    ]
+  },
+  "uspechy": [
+    { "rok": "2025/26", "text": "víťaz VII. ligy ObFZ Topoľčany, 81 gólov, postup do VI. ligy Severovýchod" },
+    { "rok": "2019/20 – 2021/22", "text": "tri sezóny v IV. lige, skupina Juhovýchod" },
+    { "rok": "2017/18", "text": "víťaz VI. ligy ObFZ Topoľčany, 97 gólov v 30 zápasoch" }
+  ],
+  "obec": {
+    "_zdroj": "web obce Kovarce (Kronika, Symboly obce)",
+    "fakty": [
+      { "k": "1241", "t": "Vznik obce, v minulosti nazývanej aj Koarch, sa spája s tatárskym vpádom v rokoch 1241 – 1242." },
+      { "k": "1395", "t": "Kovarce sa stávajú súčasťou panstva Aponiovcov a ostávajú ním až do roku 1945. Predtým patrili Ludanickovcom a kráľovi." },
+      { "k": "1864", "t": "V obci postavili cukrovar. Elektrina prišla v roku 1925." },
+      { "k": "Erb", "t": "Modrý štít so strieborným krížom pod zlatou otvorenou korunkou. Symbol je doložený na pečatidle z roku 1776 s kruhopisom IUSTITIA KOVARCIENSIS." }
+    ]
+  },
+  "sutaze": {
+    "_pozn": "čitateľné názvy súťaží namiesto skratiek a názvov so sponzormi zo Sportnetu",
+    "Slovnaft Cup": "Slovnaft Cup",
+    "VI. liga Severovýchod Macron | yoursport  ZsFZ": "VI. liga Severovýchod",
+    "IV. liga  U19  Macron | yoursport  ZsFZ": "IV. liga starších dorastencov U19",
+    "IV.liga - Ž - U15 - ObFZ TO": "IV. liga starších žiakov U15",
+    "III. liga-prípravka-U11- ObFZ TO": "III. liga prípraviek U11"
+  },
+  "nazvy": {
+    "_pozn": "čitateľné názvy súperov namiesto úradných názvov a veľkých písmen zo Sportnetu",
+    "TJ - ŠK Radošina": "TJ-ŠK Radošina",
+    "FUTBALOVÝ KLUB SLOVAN ŠIMONOVANY - PARTIZÁNSKE": "Slovan Šimonovany-Partizánske",
+    "Futbalový klub Koniarovce": "FK Koniarovce",
+    "ŠPORTOVÉ CENTRUM CHYNORANY": "ŠC Chynorany",
+    "ŠK VEGUM Dolné Vestenice": "ŠK Vegum Dolné Vestenice",
+    "OFK ČERMANY, o. z.": "OFK Čermany",
+    "OFK obce Prašice": "OFK Prašice",
+    "TJ  Slovan Bojná": "TJ Slovan Bojná"
+  }
+}
