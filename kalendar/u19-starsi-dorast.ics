@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OFK Kovarce//Zapasy//SK
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OFK Kovarce – Starší dorast U19
+X-WR-TIMEZONE:Europe/Bratislava
+BEGIN:VTIMEZONE
+TZID:Europe/Bratislava
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:zapas-6a4e4aacd14e91f303b8c8b5@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20260809T133000
+DURATION:PT2H
+SUMMARY:U19: ŠC Chynorany – OFK Kovarce U19 5:1
+DESCRIPTION:IV. liga starších dorastencov U19\, 1. kolo\nZápas vonku
+LOCATION:Štadión OŠK Chynorany
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa5d14e91f303b8b1ec@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20260815T133000
+DURATION:PT2H
+SUMMARY:U19: OFK Kovarce U19 – TJ Tatran Kamenec pod Vtáčnikom 2:2
+DESCRIPTION:IV. liga starších dorastencov U19\, 2. kolo\nDomáci zápas
+LOCATION:Čeľadince
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa5d14e91f303b8b48b@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20260825T170000
+DURATION:PT2H
+SUMMARY:U19: ŠK Vegum Dolné Vestenice – OFK Kovarce U19 0:4
+DESCRIPTION:IV. liga starších dorastencov U19\, 3. kolo\nZápas vonku
+LOCATION:ŠK VEGUM Dolné Vestenice
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa5d14e91f303b8b399@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20260829T133000
+DURATION:PT2H
+SUMMARY:U19: OFK Kovarce U19 – TJ Nový Život Veľké Uherce 2:1
+DESCRIPTION:IV. liga starších dorastencov U19\, 4. kolo\nDomáci zápas
+LOCATION:Čeľadince
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa6d14e91f303b8b69e@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20260906T123000
+DURATION:PT2H
+SUMMARY:U19: TJ Družstevník Jacovce – OFK Kovarce U19 3:1
+DESCRIPTION:IV. liga starších dorastencov U19\, 5. kolo\nZápas vonku
+LOCATION:TJ Družstevník Jacovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa6d14e91f303b8b561@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20260912T123000
+DURATION:PT2H
+SUMMARY:U19: OFK Kovarce U19 – OFK Tovarníky 0:3
+DESCRIPTION:IV. liga starších dorastencov U19\, 6. kolo\nDomáci zápas
+LOCATION:OFK Kovarce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa6d14e91f303b8b776@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20260919T113000
+DURATION:PT2H
+SUMMARY:U19: Mestský futbalový klub Baník Handlová – OFK Kovarce U19
+  0:3
+DESCRIPTION:IV. liga starších dorastencov U19\, 7. kolo\nZápas vonku
+LOCATION:Futbalový štadión Handlová
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa6d14e91f303b8b705@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20260926T113000
+DURATION:PT2H
+SUMMARY:U19: OFK Kovarce U19 – FK Junior Kanianka 1:4
+DESCRIPTION:IV. liga starších dorastencov U19\, 8. kolo\nDomáci zápas
+LOCATION:Čeľadince
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa6d14e91f303b8b8e7@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20261003T110000
+DURATION:PT2H
+SUMMARY:U19: TJ Družstevník Horná Nitra Nedožery-Brezany – OFK Kovar
+ ce U19 7:3
+DESCRIPTION:IV. liga starších dorastencov U19\, 9. kolo\nZápas vonku
+LOCATION:MTJ Pravenec
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa6d14e91f303b8b880@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20261011T110000
+DURATION:PT2H
+SUMMARY:U19: OTJ Horné Obdokovce – OFK Kovarce U19 6:0
+DESCRIPTION:IV. liga starších dorastencov U19\, 10. kolo\nZápas vonku
+LOCATION:OTJ Horné Obdokovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa7d14e91f303b8ba00@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20261017T103000
+DURATION:PT2H
+SUMMARY:U19: OFK Kovarce U19 – TJ-ŠK Radošina
+DESCRIPTION:IV. liga starších dorastencov U19\, 11. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa7d14e91f303b8b966@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20261025T103000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Bojná – OFK Kovarce U19 1:6
+DESCRIPTION:IV. liga starších dorastencov U19\, 12. kolo\nZápas vonku
+LOCATION:TJ Slovan Bojná
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa7d14e91f303b8bb9d@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20261031T103000
+DURATION:PT2H
+SUMMARY:U19: OFK Práznovce – OFK Kovarce U19 0:3
+DESCRIPTION:IV. liga starších dorastencov U19\, 13. kolo\nZápas vonku
+LOCATION:Práznovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4abcd14e91f303b8ef9c@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20261107T100000
+DURATION:PT2H
+SUMMARY:U19: OFK Prašice – OFK Kovarce U19 1:2
+DESCRIPTION:IV. liga starších dorastencov U19\, 14. kolo\nZápas vonku
+LOCATION:TJ Koniarovce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa8d14e91f303b8bd9f@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20261114T100000
+DURATION:PT2H
+SUMMARY:U19: OFK Kovarce U19 – TJ Slovan Krušovce 4:0
+DESCRIPTION:IV. liga starších dorastencov U19\, 15. kolo\nDomáci zápas
+LOCATION:OFK Kovarce
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aafd14e91f303b8d418@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20270306T110000
+DURATION:PT2H
+SUMMARY:U19: OFK Kovarce U19 – ŠC Chynorany
+DESCRIPTION:IV. liga starších dorastencov U19\, 16. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa8d14e91f303b8bf4e@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20270314T110000
+DURATION:PT2H
+SUMMARY:U19: TJ Tatran Kamenec pod Vtáčnikom – OFK Kovarce U19
+DESCRIPTION:IV. liga starších dorastencov U19\, 17. kolo\nZápas vonku
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa8d14e91f303b8c25e@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20270320T113000
+DURATION:PT2H
+SUMMARY:U19: OFK Kovarce U19 – ŠK Vegum Dolné Vestenice
+DESCRIPTION:IV. liga starších dorastencov U19\, 18. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa8d14e91f303b8c182@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20270327T113000
+DURATION:PT2H
+SUMMARY:U19: TJ Nový Život Veľké Uherce – OFK Kovarce U19
+DESCRIPTION:IV. liga starších dorastencov U19\, 19. kolo\nZápas vonku
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aabd14e91f303b8c6f4@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20270403T123000
+DURATION:PT2H
+SUMMARY:U19: OFK Kovarce U19 – TJ Družstevník Jacovce
+DESCRIPTION:IV. liga starších dorastencov U19\, 20. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aa9d14e91f303b8c38c@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20270411T123000
+DURATION:PT2H
+SUMMARY:U19: OFK Tovarníky – OFK Kovarce U19
+DESCRIPTION:IV. liga starších dorastencov U19\, 21. kolo\nZápas vonku
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aacd14e91f303b8c972@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20270417T130000
+DURATION:PT2H
+SUMMARY:U19: OFK Kovarce U19 – Mestský futbalový klub Baník Handlová
+DESCRIPTION:IV. liga starších dorastencov U19\, 22. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aacd14e91f303b8c80f@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20270425T100000
+DURATION:PT2H
+SUMMARY:U19: FK Junior Kanianka – OFK Kovarce U19
+DESCRIPTION:IV. liga starších dorastencov U19\, 23. kolo\nZápas vonku
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aacd14e91f303b8c922@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20270501T133000
+DURATION:PT2H
+SUMMARY:U19: OFK Kovarce U19 – TJ Družstevník Horná Nitra Nedožery-B
+ rezany
+DESCRIPTION:IV. liga starších dorastencov U19\, 24. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aacd14e91f303b8c9f2@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20270508T133000
+DURATION:PT2H
+SUMMARY:U19: OFK Kovarce U19 – OTJ Horné Obdokovce
+DESCRIPTION:IV. liga starších dorastencov U19\, 25. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aacd14e91f303b8cb8f@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20270516T133000
+DURATION:PT2H
+SUMMARY:U19: TJ-ŠK Radošina – OFK Kovarce U19
+DESCRIPTION:IV. liga starších dorastencov U19\, 26. kolo\nZápas vonku
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aacd14e91f303b8caca@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20270522T133000
+DURATION:PT2H
+SUMMARY:U19: OFK Kovarce U19 – TJ Slovan Bojná
+DESCRIPTION:IV. liga starších dorastencov U19\, 27. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aadd14e91f303b8cd34@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20270529T133000
+DURATION:PT2H
+SUMMARY:U19: OFK Kovarce U19 – OFK Práznovce
+DESCRIPTION:IV. liga starších dorastencov U19\, 28. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4abfd14e91f303b8f4b0@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20270605T133000
+DURATION:PT2H
+SUMMARY:U19: OFK Kovarce U19 – OFK Prašice
+DESCRIPTION:IV. liga starších dorastencov U19\, 29. kolo\nDomáci zápas
+END:VEVENT
+BEGIN:VEVENT
+UID:zapas-6a4e4aaed14e91f303b8cf42@ofk-kovarce.sportnet
+DTSTAMP:20261117T235251Z
+DTSTART;TZID=Europe/Bratislava:20270613T133000
+DURATION:PT2H
+SUMMARY:U19: TJ Slovan Krušovce – OFK Kovarce U19
+DESCRIPTION:IV. liga starších dorastencov U19\, 30. kolo\nZápas vonku
+END:VEVENT
+END:VCALENDAR
