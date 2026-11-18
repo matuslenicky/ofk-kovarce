@@ -69,7 +69,7 @@ ${months.map((ym) => `  <section class="kv-month" aria-labelledby="m-${ym}">
     <h2 class="h2" id="m-${ym}">${calTitle(ym)}</h2>
     <p class="kv-sub">${sub(ym)}</p>
     ${monthCal(ym, R)}
-    ${fxList(monthMatches(ym).slice(0, 8), R)}
+    ${fxList(monthMatches(ym), R)}
   </section>`).join('\n')}
   <p class="kv-all">${more(`${R}zapasy/`, 'Všetky zápasy a výsledky')}</p>
 </div></section>

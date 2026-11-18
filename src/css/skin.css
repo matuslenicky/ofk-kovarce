@@ -131,3 +131,7 @@ a.cal-x:hover { background: rgba(31, 99, 163, .1); }
 .ftr-name { font: 700 1.25rem/1.2 var(--disp); }
 .ftr-bar { border-top: 1px solid var(--line); color: var(--muted); }
 .demo { background: var(--ink); color: #fff; }
+
+/* meno klubu je už v hlavičke: nadpis úvodu ako malá nálepka, hlavné sú mesiace */
+.kv-top .h1 { font: 700 .9375rem/1.3 var(--disp); letter-spacing: .08em; text-transform: uppercase; color: var(--blue); }
+.kv-p { margin-top: 8px; font-size: clamp(1.25rem, 3vw, 1.6rem); line-height: 1.35; color: var(--ink); max-width: 40ch; }

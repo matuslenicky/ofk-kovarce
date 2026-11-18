@@ -274,7 +274,7 @@ function card(m, R, { big = false, label = '', self = false } = {}) {
   if (m.score && m.detail && !self) links.push(`<a class="mc-a" href="${R}${m.url}">Priebeh a zostavy${I.arrow}</a>`);
   if (!m.past && !self) links.push(`<a class="mc-a" href="${R}kalendar/zapas-${m.id}.ics" download>${I.cal}Do kalendára</a>`);
   return `<article class="mc${big ? ' mc--big' : ''}">
-  <p class="mc-top"><span class="mc-label">${esc(lbl)}</span><span>${esc(m.teamObj.short)} · ${esc(m.comp)}${m.roundName ? `, ${esc(m.roundName)}` : ''}</span></p>
+  <p class="mc-top"><span class="mc-label">${esc(lbl)}</span>${self ? '' : `<span>${esc(m.teamObj.short)} · ${esc(m.comp)}${m.roundName ? `, ${esc(m.roundName)}` : ''}</span>`}</p>
   <div class="mc-row">${side(h, 'domáci')}<p class="mc-mid${m.score ? ` mc-mid--${m.res}` : ''}">${mid}</p>${side(a, 'hostia')}</div>
   <p class="mc-when"><time datetime="${m.date}">${dLong(m.date)}</time>${m.time && !m.past ? ` · ${esc(m.time)}` : ''}${m.venue ? ` · ${glueAbbr(esc(venueName(m.venue)))}` : ''}${m.score ? ` · ${RES[m.res].toLowerCase()}` : ''}</p>
   ${!m.past ? `<p class="mc-cd"><span class="cd" data-kickoff="${isoLocal(m.date, m.time)}" hidden></span></p>` : ''}
@@ -553,7 +553,7 @@ ${months.map((ym) => `  <section class="kv-month" aria-labelledby="m-${ym}">
     <h2 class="h2" id="m-${ym}">${calTitle(ym)}</h2>
     <p class="kv-sub">${sub(ym)}</p>
     ${monthCal(ym, R)}
-    ${fxList(monthMatches(ym).slice(0, 8), R)}
+    ${fxList(monthMatches(ym), R)}
   </section>`).join('\n')}
   <p class="kv-all">${more(`${R}zapasy/`, 'Všetky zápasy a výsledky')}</p>
 </div></section>
